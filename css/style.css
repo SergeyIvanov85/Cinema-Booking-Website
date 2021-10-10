@@ -83,3 +83,19 @@ body{
   font-size: 16px;
   line-height: 150%;
 }
+.rating{
+  display: flex;
+  align-items: center;
+  margin-left: 34px;
+}
+.rating-current{
+  font-size: 24px;
+  line-height: 150%;
+}
+.rating-icon{
+  margin-right: 14px;
+}
+.film-details{
+  display: flex;
+  align-items: center;
+}
